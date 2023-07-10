@@ -1,0 +1,18 @@
+@media (min-width: 0px) and (max-width: 1200px) {
+    .margit-top-section {
+        width: 100%;
+    }
+
+    .link-s-1,
+    .link-s-4 {
+        width: 100%;
+        padding: 50px;
+    }
+
+    .link-s-3,
+    .link-s-2 {
+        width: 100%;
+        padding: 50px;
+    }
+
+}
