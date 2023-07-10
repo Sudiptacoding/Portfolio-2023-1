@@ -9,7 +9,7 @@
 }
 
 header {
-    background-image: url('/image/image/background.jpg'), linear-gradient(#000000ad, #808080a1);
+    background-image: url('../image/image/background.jpg'), linear-gradient(#000000ad, #808080a1);
     background-blend-mode: multiply;
 }
 
